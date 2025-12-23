@@ -1,59 +1,79 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Hello World" />
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=freelancer&logoColor=white" alt="Available for Hire"/>
+</a>
 
-# Hi there, I'm Mohamed Tahar 👋
-### Computer Science Student 🎓 | Software Developer 💻
+<br><br>
 
-<p>
-طالب جامعي شغوف بعلوم الحاسوب، أركز حالياً على بناء أساس قوي في البرمجة والخوارزميات.
-<br>
-CS Student focusing on building a strong foundation in programming and algorithms.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding" />
+
+# Hello, I'm Mohamed Tahar 👋
+### Software Developer | Computer Science Student
+
+<p align="center" width="80%">
+  <b>I build efficient, reliable software solutions.</b><br>
+  Dedicated developer with a strong foundation in Computer Science, turning complex problems into clean code.
 </p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
+<p align="center">
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 </div>
 
 <hr>
 
-### 🛠️ Languages & Tools (أدواتي)
+### 🚀 What I Offer (Services)
 
-<div align="center">
+I provide professional development services tailored to your needs:
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+| 💻 **Software Development** | 🔧 **Scripting & Automation** | 📱 **App Development** |
+| :--- | :--- | :--- |
+| Custom C/C++ applications, Algorithm implementation, and System programming. | Python scripts to automate boring tasks, Data processing, and Web scraping. | Building cross-platform mobile apps using Flutter or React Native. |
 
 <br>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| Core Languages | Frameworks & Web | Tools & Systems |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /> | <img src="https://skillicons.dev/icons?i=flutter,react,html,css" /> | <img src="https://skillicons.dev/icons?i=git,linux,vscode,firebase" /> |
 
 </div>
 
 <br>
 
-### 👨‍💻 About Me
+### 📈 GitHub Activity
 
-```c
-// My Profile
-struct Student {
-    char name[] = "Mohamed Tahar Ben Yerbah";
-    char major[] = "Computer Science";
-    char year[] = "Freshman (1st Year)";
-    char interests[] = {"Problem Solving", "Open Source", "System Programming"};
-};
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="Mohamed's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-// Goals for 2025
-void current_goals() {
-    master("C & Data Structures");
-    contribute("Open Source Projects");
-    explore("Software Engineering");
-}
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=buefy&hide_border=true" alt="Streak" width="98%" />
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>Let's build something amazing together.</h3>
+  <p>Open for freelance projects and collaborations.</p>
+  <p>
+    <a href="mailto:YOUR_EMAIL_ADDRESS"><strong>Hire Me Now ➔</strong></a>
+  </p>
+</div>
+
