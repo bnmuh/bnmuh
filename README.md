@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:muhwork06@gmail.com">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge&logo=freelancer&logoColor=white" alt="Available for Hire"/>
 </a>
 
@@ -8,24 +8,20 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding" />
 
-# Hello, I'm Mohamed Tahar 👋
-### Computer Science Student | Freelance Developer
+# Hello, I'm Mohamed Tahar Ben Yerbah 👋
+### Software Developer | Computer Science Student
 
 <p align="center" width="80%">
-  <b>Turning ideas into code.</b><br>
-  I am a 1st-year Computer Science student passionate about programming.<br>
-  I am available to help you with coding tasks, fixing bugs, and building basic applications.
+  <b>I bridge the gap between complex problems and simple, effective software solutions.</b><br>
+  While many write code, I focus on reliability and getting the job done efficiently. As a dedicated CS student, I bring a fresh perspective and 100% commitment to every task.
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:muhwork06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muhwork06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://wa.me/213797751027">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
@@ -33,21 +29,21 @@
 
 <hr>
 
-### 🚀 Services (What I can do for you)
+### 🚀 Services
 
-Since I am a dedicated CS student, I can assist you with:
+I am ready to assist you with:
 
-| 💻 **Programming Tasks** | 🌐 **Web & Design** | 📱 **Mobile Basics** |
+| 💻 **Programming & Logic** | 🌐 **Web Basics** | 📱 **App Interfaces** |
 | :--- | :--- | :--- |
-| Writing scripts in **Python** or **C/C++**. Solving algorithmic problems and helping with school assignments. | Creating beautiful static websites using **HTML & CSS**. Basic UI design. | Building basic screens for mobile apps using **Flutter** or **React Native**. |
+| Custom C/C++ & Python solutions. <br> Automation scripts. <br> Bug fixing and algorithm logic. | Static websites (HTML/CSS). <br> Responsive adjustments. <br> Clean code structure. | Building UI screens for mobile apps using Flutter or React Native. |
 
 <br>
 
-### 🛠️ Languages & Tools (أدواتي)
+### 🛠️ Languages & Tools
 
 <div align="center">
 
-| University & Core | Web Development | Mobile & Tools |
+| Core & University | Web Development | Mobile & Tools |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /> | <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=flutter,react,git,linux" /> |
 
@@ -55,14 +51,17 @@ Since I am a dedicated CS student, I can assist you with:
 
 <br>
 
-### 👨‍💻 About Me
+### 👨‍💻 My Approach
 
 ```python
-# My Introduction
+# Why hire me?
 class Developer:
-    name = "Mohamed Tahar"
-    role = "CS Student (1st Year)"
-    location = "Algeria"
+    name = "Mohamed Tahar Ben Yerbah"
+    focus = "Client Satisfaction"
     
-    def skills(self):
-        return ["Hard Worker", "Quick Learner", "Problem Solver"]
+    def work_style(self):
+        return {
+            "Efficiency": "Clean code, no clutter.",
+            "Communication": "Always available to discuss.",
+            "Growth": "Every project is a chance to excel."
+        }
